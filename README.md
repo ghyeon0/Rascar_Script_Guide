@@ -39,18 +39,19 @@
     nm-connection-editor
     ```
 
-  - ![](http://drive.google.com/uc?export=view&id=1nhaJoV7r5aUKvS174r_hE05bJYLpMRng)
+    ![](http://drive.google.com/uc?export=view&id=1nhaJoV7r5aUKvS174r_hE05bJYLpMRng)
 
 
 
   - 위와 같은 창이 뜨면 Wired connection 1을 클릭한 후 아래 설정 버튼을 누릅니다. 아래와 같은 창이 뜨게 됩니다.
-  - ![](http://drive.google.com/uc?export=view&id=1gZNF1X5CNF4rW0sw-Z_-KHqVpzHgEebL)
+
+    ![](http://drive.google.com/uc?export=view&id=1gZNF1X5CNF4rW0sw-Z_-KHqVpzHgEebL)
 
 
 
   - IPV4 Settings 탭을 누른 후, Method를 사진과 같이 Shared to other computers(다른 컴퓨터와 공유)로 바꾸어 줍니다.
 
-  - ![](http://drive.google.com/uc?export=view&id=1q5SmX5ZgPNhlzZ-tEVsrOCCtg6awrf4a)
+    ![](http://drive.google.com/uc?export=view&id=1q5SmX5ZgPNhlzZ-tEVsrOCCtg6awrf4a)
 
   - Save를 누르고 나옵니다. 
 
@@ -62,7 +63,7 @@
     sudo nmap -sS 10.42.0.1-254
     ```
 
-  - ![](http://drive.google.com/uc?export=view&id=1GY_Tv2gm_LecHNnk9FZVnIYtG-uSlv7Y)
+    ![](http://drive.google.com/uc?export=view&id=1GY_Tv2gm_LecHNnk9FZVnIYtG-uSlv7Y)
 
   - 위와 같은 결과가 나오게 됩니다. 아래의 Raspberry Pi Foundation이 표시된 부분이 라즈베리파이의 상태를 나타내는 부분이고, IP는 Nmap scan report for 10.42.0.10 이 부분에서 10.42.0.10이 라즈베리파이의 유선 IP가 됩니다. IP는 기기에 따라 달라질 수 있습니다.
 
