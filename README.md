@@ -2,18 +2,9 @@
 
 ## 스크립트와 가이드
 
-### display_ssh_set.sh
+### 스크립트 사용하기
 
-- 디스플레이 사용 설정
-- 첫 부팅시에 ssh 사용 가능하도록 설정
-- [Download](https://drive.google.com/open?id=1bOmllDNR1gwyJuFK4PyXRwxhVASZbF2B)
-
-
-
-### raspbian_setup.sh
-
-- 라즈비안의 초기 사용 환경을 설정
-- [Download](https://drive.google.com/open?id=1u4tGgpKT1mwXKfXlY86JYsthGDx4YvjM)
+[스크립트 사용법]: https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%82%AC%EC%9A%A9%EB%B2%95.md
 
 
 
@@ -74,3 +65,9 @@
     ```
 
   - ssh 연결 후에 ifconfig 명령을 통해서 무선랜 ip를 알아낼 수 있게 됩니다.
+
+
+
+
+
+[]: 
