@@ -18,5 +18,4 @@
 
 ### 기타
 
-- Raspbian / Etcher 미러 링크 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EB%9D%BC%EC%A6%88%EB%B9%84%EC%95%88%20%EC%9E%AC%EC%84%A4%EC%B9%98.md)
-
+- Raspbian / Etcher 미러 링크 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EB%A7%81%ED%81%AC.md)
