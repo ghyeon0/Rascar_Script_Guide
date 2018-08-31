@@ -20,5 +20,4 @@
 
 - Raspbian / Etcher 미러 링크 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EB%A7%81%ED%81%AC.md)
 - Etcher가 실행이 안된다면 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/Etcher%20%EC%8B%A4%ED%96%89%20%EC%95%88%EB%90%A0%20%EB%95%8C.md) 
-
 - 2분반 사물함 배정표 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/2%EB%B6%84%EB%B0%98%20%EC%82%AC%EB%AC%BC%ED%95%A8%20%EB%B0%B0%EC%A0%95%ED%91%9C.md)
