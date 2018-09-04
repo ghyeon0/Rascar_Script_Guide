@@ -1,5 +1,11 @@
 # 창업연계공학설계입문
 
+### 소스코드
+
+- GPIO 실습 코드 - [LINK](http://drive.google.com/uc?export=view&id=1pqk6GpF2CEN1pooHxQ6V61OElQ8ZxcWJ)
+
+------
+
 ### 라즈베리파이
 
 - 스크립트 사용하기 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
@@ -26,3 +32,4 @@
 ### 사물함 배정표
 
 - 2분반 사물함 배정표 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/2%EB%B6%84%EB%B0%98%20%EC%82%AC%EB%AC%BC%ED%95%A8%20%EB%B0%B0%EC%A0%95%ED%91%9C.md)
+
