@@ -26,6 +26,7 @@
 
 - Raspbian / Etcher 미러 링크 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EB%A7%81%ED%81%AC.md)
 - Etcher가 실행이 안된다면 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/Etcher%20%EC%8B%A4%ED%96%89%20%EC%95%88%EB%90%A0%20%EB%95%8C.md) 
+- VNC Viewer 설치가 안된다면 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/VNC%20%EC%84%A4%EC%B9%98%EA%B0%80%20%EC%95%88%EB%90%9C%EB%8B%A4%EB%A9%B4.md)
 
 ------
 
