@@ -1,10 +1,5 @@
 # 창업연계공학설계입문
 
-### 소스코드
-
-- GPIO 실습 코드 - [LINK](http://drive.google.com/uc?export=view&id=1pqk6GpF2CEN1pooHxQ6V61OElQ8ZxcWJ)
-
-------
 
 ### 라즈베리파이
 
