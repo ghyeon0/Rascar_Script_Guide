@@ -2,7 +2,7 @@
 
 ### 소스코드
 
-- GPIO 실습 소스코드 - [LINK](http://drive.google.com/uc?export=view&id=1xV57f03fhMAQemdEGl6gVpJl4ti4K3AY)
+- GPIO 실습 소스코드 - [DOWNLOAD](http://drive.google.com/uc?export=view&id=1xV57f03fhMAQemdEGl6gVpJl4ti4K3AY)
 
 ------
 
