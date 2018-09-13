@@ -6,6 +6,11 @@
 
 ------
 
+### 차량 조립
+
+- 조립 순서 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EC%83%88%EC%B0%A8%20%EC%A1%B0%EB%A6%BD%20%ED%8C%81.md)
+
+------
 
 ### 라즈베리파이
 
