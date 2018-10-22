@@ -7,6 +7,14 @@
 
 ------
 
+### 데이터시트
+
+- [L298N](https://drive.google.com/open?id=1aVRZTeox-wtD3khqssWjbu2Sut3CAdLn)
+- [PCA9685](https://drive.google.com/open?id=1v8rKU-MnIFKW3T5x_2WzvP9npnoE15ba)
+- [SG90](https://drive.google.com/open?id=1my2alUsnFdlPNJAym-iZRwtDOQH-WZZt)
+
+------
+
 ### 차량 조립
 
 - 조립 순서 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EC%83%88%EC%B0%A8%20%EC%A1%B0%EB%A6%BD%20%ED%8C%81.md)
