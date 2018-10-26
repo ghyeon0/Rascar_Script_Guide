@@ -15,6 +15,12 @@
 
 ------
 
+### 트랙 이미지 파일
+
+- 트랙 이미지 다운로드 - [DOWNLOAD](http://drive.google.com/uc?export=view&id=1_T4u38EaNJRtsM4SfuVNWFZuYjel909K)
+
+------
+
 ### 차량 조립
 
 - 조립 순서 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/%EC%83%88%EC%B0%A8%20%EC%A1%B0%EB%A6%BD%20%ED%8C%81.md)
