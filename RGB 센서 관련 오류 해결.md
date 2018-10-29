@@ -62,7 +62,7 @@ Car 클래스의 생성자 내부의 72~74번 줄, 79번 줄을 주석처리 하
 # ================================================================
 # DISABLE RGB MODULE INTERRUPTION
 # ================================================================
-q# self.color_getter.set_interrupt(False)
+# self.color_getter.set_interrupt(False)
 ```
 
 주석처리한 결과는 위와 같습니다.
