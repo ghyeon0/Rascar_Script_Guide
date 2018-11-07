@@ -19,6 +19,7 @@
 ### 트랙 이미지 파일
 
 - 2차과제 트랙 이미지 다운로드 - [DOWNLOAD](http://drive.google.com/uc?export=view&id=1mIpPfbyt6kRvArXsDQguJHav-Z1Qz4yo)
+- 3차과제 트랙 이미지 다운로드 - [DOWNLOAD](http://drive.google.com/uc?export=view&id=1mjtjQzA44ShU_QazCd-FlWJKIOfe2zn1)
 
 ------
 
