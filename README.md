@@ -5,7 +5,7 @@
 - GPIO 실습 소스코드 - [DOWNLOAD](http://drive.google.com/uc?export=view&id=1xV57f03fhMAQemdEGl6gVpJl4ti4K3AY)
 - 차량 캘리브레이션 소스코드 - [DOWNLOAD](http://drive.google.com/uc?export=view&id=1w5PfHwlaA_YPkfmciqgt30cd47NKzpvG)
 - RGB 센서 비활성화된 소스코드 사용법 - [LINK](https://github.com/ghyeon0/Rascar_Script_Guide/blob/master/RGB%20%EC%84%BC%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
-- AD과제 강의 교안 - [DOWNLOAD](https://drive.google.com/open?id=1YYo_J94_jsGt3R1C_1zbwqbXV5dahuab)
+- (02분반) AD과제 강의 교안 - [DOWNLOAD](https://drive.google.com/open?id=1YYo_J94_jsGt3R1C_1zbwqbXV5dahuab)
 
 ------
 
